@@ -1,0 +1,15 @@
+/Users/a789/RiderProjects/CS-Labs-MGTU-Magnitogorsk/Lab1/obj/Debug/net7.0/Lab1.csproj.AssemblyReference.cache
+/Users/a789/RiderProjects/CS-Labs-MGTU-Magnitogorsk/Lab1/obj/Debug/net7.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a789/RiderProjects/CS-Labs-MGTU-Magnitogorsk/Lab1/obj/Debug/net7.0/Lab1.AssemblyInfoInputs.cache
+/Users/a789/RiderProjects/CS-Labs-MGTU-Magnitogorsk/Lab1/obj/Debug/net7.0/Lab1.AssemblyInfo.cs
+/Users/a789/RiderProjects/CS-Labs-MGTU-Magnitogorsk/Lab1/obj/Debug/net7.0/Lab1.csproj.CoreCompileInputs.cache
+/Users/a789/RiderProjects/CS-Labs-MGTU-Magnitogorsk/Lab1/bin/Debug/net7.0/Lab1
+/Users/a789/RiderProjects/CS-Labs-MGTU-Magnitogorsk/Lab1/bin/Debug/net7.0/Lab1.deps.json
+/Users/a789/RiderProjects/CS-Labs-MGTU-Magnitogorsk/Lab1/bin/Debug/net7.0/Lab1.runtimeconfig.json
+/Users/a789/RiderProjects/CS-Labs-MGTU-Magnitogorsk/Lab1/bin/Debug/net7.0/Lab1.dll
+/Users/a789/RiderProjects/CS-Labs-MGTU-Magnitogorsk/Lab1/bin/Debug/net7.0/Lab1.pdb
+/Users/a789/RiderProjects/CS-Labs-MGTU-Magnitogorsk/Lab1/obj/Debug/net7.0/Lab1.dll
+/Users/a789/RiderProjects/CS-Labs-MGTU-Magnitogorsk/Lab1/obj/Debug/net7.0/refint/Lab1.dll
+/Users/a789/RiderProjects/CS-Labs-MGTU-Magnitogorsk/Lab1/obj/Debug/net7.0/Lab1.pdb
+/Users/a789/RiderProjects/CS-Labs-MGTU-Magnitogorsk/Lab1/obj/Debug/net7.0/Lab1.genruntimeconfig.cache
+/Users/a789/RiderProjects/CS-Labs-MGTU-Magnitogorsk/Lab1/obj/Debug/net7.0/ref/Lab1.dll
